@@ -11,3 +11,9 @@ yarn
 ```powershell
 yarn serve
 ```
+
+> 3、打包文件
+
+```powershell
+yarn build
+```
